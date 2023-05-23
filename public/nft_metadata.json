@@ -1,7 +1,7 @@
 {
     "description":"This is Tyang NFT",
     "name": "NFT of Tyang",
-    "image": "",
+    "image": "https://static-web-fa320.web.app/metaverse.jpeg",
     "attributes":[
         {
             "trait_type":"",
